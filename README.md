@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kbecker01
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in programming in general 
+- 🌱 I’m currently learning whatever appears to be interesting
 
 - 📫 How to reach me : kbecker01@beckman.com
 
